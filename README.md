@@ -1,5 +1,5 @@
 ## 前提概要
-目之所急，有感而发，声泪俱下，发自肺腑，感慨万千！
+目之所及，有感而发，声泪俱下，发自肺腑，感慨万千！
 
 ## 网址
 https://sakuraloveforever.github.io/Life-Insights/
