@@ -2,6 +2,7 @@
 目之所急，有感而发，声泪俱下，发自肺腑，感慨万千！
 
 ## 网址
+https://sakuraloveforever.github.io/Life-Insights/
 
 ## Star History
 
