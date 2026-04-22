@@ -4,6 +4,9 @@
 ## 网址
 https://sakuraloveforever.github.io/Life-Insights/
 
+## 备用网址
+https://lifeinsight.netlify.app/
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=SakuraLoveForever%2FLife-Insights&type=date&legend=top-left">
