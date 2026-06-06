@@ -2,6 +2,8 @@
 
 > 人生如卷，山河万里；心有所感，月色长明。
 
+🔗 **在线访问：**[sakuraloveforever.github.io/Life-Insights](https://sakuraloveforever.github.io/Life-Insights/)
+
 一个简洁优雅的个人随记页面，记录阅读、观影、游戏与生活中的点滴感悟。
 
 ## ✨ 特性
