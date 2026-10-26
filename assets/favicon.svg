@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="32" height="32" role="img" aria-label="雷姆 Rem">
+  <path d="M32 6 C45 6 51 15 51 28 C51 38 48.5 44 46.5 46.5 C44.5 48.5 42 47.5 41.5 44 C41 39 41 35 41 32 C37.5 35.5 35.5 36.5 32 35.5 C28.5 36.5 26.5 35.5 23 32 C23 35 23 39 22.5 44 C22 47.5 19.5 48.5 17.5 46.5 C15.5 44 13 38 13 28 C13 15 19 6 32 6 Z" fill="#93c4e4" stroke="#2a3b52" stroke-width="2"/>
+  <ellipse cx="32" cy="29" rx="14" ry="14.5" fill="#fde8dc" stroke="#2a3b52" stroke-width="2"/>
+  <path d="M18.5 29 C18.5 16 24 6 32 6 C40 6 45.5 16 45.5 29 C45 26 42.5 23.5 39 23.5 C35 23.5 31.5 25.5 28 29 C25.5 32 20.5 33 18.5 29 Z" fill="#b7dcf2" stroke="#2a3b52" stroke-width="1.9" stroke-linejoin="round"/>
+  <path d="M28.5 8 C31.5 16 31 26 29.5 33 C28.5 37 25 37.5 23.5 34 C21 27 25 15 28.5 8 Z" fill="#b7dcf2" stroke="#2a3b52" stroke-width="1.9" stroke-linejoin="round"/>
+  <path d="M34 31 C34.25 27.5 36 25.75 38.5 25.75 C41 25.75 42.75 27.5 43 31 C43 34.25 41.25 36 38.5 36 C35.75 36 34 34.25 34 31 Z" fill="#fdfdff"/>
+  <ellipse cx="38.5" cy="31" rx="3.7" ry="4" fill="#4e9fd6"/>
+  <circle cx="36.8" cy="28.8" r="1.45" fill="#fff"/>
+  <path d="M33.3 31.7 C34 26.2 35.9 24 38.5 24 C41.1 24 43 26.2 43.7 31.7 C42.4 27.5 40.8 25.9 38.5 25.9 C36.2 25.9 34.6 27.5 33.3 31.7 Z" fill="#2a3b52"/>
+  <path d="M13 28 C13 15 19 6 32 6 C45 6 51 15 51 28 L47 28 C47 17 42 12 32 12 C22 12 17 17 17 28 Z" fill="#f4f8fc" stroke="#2a3b52" stroke-width="1.9" stroke-linejoin="round"/>
+  <path d="M47.6 23.6 C45.6 20.1 42.1 19.1 41.1 22.1 C40.1 25.1 43.1 27.1 46.1 25.1 Z" fill="#5fa8dc" stroke="#2a3b52" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M47.6 23.6 C49.6 20.1 53.1 19.1 54.1 22.1 C55.1 25.1 52.1 27.1 49.1 25.1 Z" fill="#5fa8dc" stroke="#2a3b52" stroke-width="1.6" stroke-linejoin="round"/>
+  <circle cx="47.6" cy="23.6" r="1.8" fill="#5fa8dc" stroke="#2a3b52" stroke-width="1.5"/>
+</svg>

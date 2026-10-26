@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="雷姆 Rem 头像">
+  <defs>
+    <radialGradient id="remGlow" cx="50%" cy="46%" r="60%">
+      <stop offset="0" stop-color="#27365c" stop-opacity=".7"/>
+      <stop offset=".65" stop-color="#1b2740" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#141d33" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="remSheen" x1="0" y1="0" x2=".45" y2="1">
+      <stop offset="0" stop-color="#d9edfa" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#d9edfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="64" cy="62" r="60" fill="url(#remGlow)"/>
+
+  <!-- 头发外层（后发 + 两侧鬓发） -->
+  <path d="M64 12 C90 12 102 30 102 56 C102 76 97 88 93 93 C89 97 84 95 83 88 C82 78 82 70 82 64 C75 71 71 73 64 71 C57 73 53 71 46 64 C46 70 46 78 45 88 C44 95 39 97 35 93 C31 88 26 76 26 56 C26 30 38 12 64 12 Z" fill="#93c4e4" stroke="#2a3b52" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <!-- 脖子 -->
+  <path d="M57 78 L71 78 L72 95 L56 95 Z" fill="#f3d0bd" stroke="#2a3b52" stroke-width="3"/>
+
+  <!-- 脸 -->
+  <ellipse cx="64" cy="58" rx="28" ry="29" fill="#fde8dc" stroke="#2a3b52" stroke-width="3.5"/>
+
+  <!-- 刘海（右侧短，左侧长扫） -->
+  <path d="M37 58 C37 32 48 12 64 12 C80 12 91 32 91 58 C90 52 85 47 78 47 C70 47 63 51 56 58 C51 64 41 66 37 58 Z" fill="#b7dcf2" stroke="#2a3b52" stroke-width="3.2" stroke-linejoin="round"/>
+
+  <!-- 遮住右眼（画面左侧）的长刘海 -->
+  <path d="M57 16 C63 32 62 52 59 66 C57 74 50 75 47 68 C42 54 50 30 57 16 Z" fill="#b7dcf2" stroke="#2a3b52" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M85 34 C90 46 91 60 88 72 C87 78 81 77 82 71 C84 58 82 44 85 34 Z" fill="#b7dcf2" stroke="#2a3b52" stroke-width="2.8" stroke-linejoin="round"/>
+
+  <!-- 头发高光 -->
+  <path d="M52 40 C58 30 68 27 78 31 C70 34 62 40 58 49 C54 47 52 44 52 40 Z" fill="url(#remSheen)"/>
+
+  <!-- 露出的左眼 -->
+  <path d="M68 62 C68.5 55 72 51.5 77 51.5 C82 51.5 85.5 55 86 62 C86 68.5 82.5 72 77 72 C71.5 72 68 68.5 68 62 Z" fill="#fdfdff"/>
+  <ellipse cx="77" cy="62" rx="7.4" ry="8" fill="#4e9fd6"/>
+  <ellipse cx="77" cy="66" rx="5" ry="3.2" fill="#8fd0f2" opacity=".9"/>
+  <circle cx="73.6" cy="57.6" r="2.9" fill="#fff"/>
+  <circle cx="80.6" cy="65.6" r="1.5" fill="#fff" opacity=".85"/>
+  <path d="M66.6 63.4 C68 52.4 71.8 48 77 48 C82.2 48 86 52.4 87.4 63.4 C84.8 55 81.6 51.8 77 51.8 C72.4 51.8 69.2 55 66.6 63.4 Z" fill="#2a3b52"/>
+
+  <!-- 腮红 + 嘴 -->
+  <ellipse cx="46" cy="74" rx="5.2" ry="3.2" fill="#f4a99a" opacity=".55"/>
+  <ellipse cx="85" cy="71" rx="5" ry="3.2" fill="#f4a99a" opacity=".65"/>
+  <path d="M60 78 C62 81 66 81 68 78" fill="none" stroke="#2a3b52" stroke-width="2.6" stroke-linecap="round"/>
+
+  <!-- 白色褶边发带 -->
+  <path d="M26 56 Q19 46 28.3 38.1 Q24.6 28.2 35.25 24.25 Q36.5 16.5 47 15.2 Q55.5 6.6 64 12 Q72.5 6.6 81 15.2 Q91.5 16.5 93 24.25 Q103.2 28.2 100 38.1 Q109 46 102 56 L94 56 C94 34 84 24 64 24 C44 24 34 34 34 56 Z" fill="#f4f8fc" stroke="#2a3b52" stroke-width="3.2" stroke-linejoin="round"/>
+
+  <!-- 蓝色小发饰（她的左侧，画面右侧） -->
+  <path d="M95 47 C91 40 84 38 82 44 C80 50 86 54 92 50 Z" fill="#5fa8dc" stroke="#2a3b52" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M95 47 C99 40 106 38 108 44 C110 50 104 54 98 50 Z" fill="#5fa8dc" stroke="#2a3b52" stroke-width="2.4" stroke-linejoin="round"/>
+  <circle cx="95" cy="47" r="3" fill="#5fa8dc" stroke="#2a3b52" stroke-width="2.2"/>
+
+  <!-- 黑色女仆裙 -->
+  <path d="M26 128 L27 112 C28 103 36 96 46 94 L82 94 C92 96 100 103 101 112 L102 128 Z" fill="#232a3e" stroke="#2a3b52" stroke-width="3.4" stroke-linejoin="round"/>
+
+  <!-- 白色围裙 -->
+  <path d="M50 114 L78 114 L80 128 L48 128 Z" fill="#f4f8fc" stroke="#2a3b52" stroke-width="3.2" stroke-linejoin="round"/>
+  <!-- 领口 + 胸前褶边 -->
+  <path d="M50 86 C56 91 72 91 78 86 C82 88 84 92 85 96 L86 106 C84 112 80.5 112 78 106 C75.5 112 72 112 69.5 106 C67 112 63.5 112 61 106 C58.5 112 55 112 52.5 106 C50 112 46.5 112 44 106 L42 96 C43 92 46 88 50 86 Z" fill="#f4f8fc" stroke="#2a3b52" stroke-width="3.2" stroke-linejoin="round"/>
+</svg>
